@@ -12,8 +12,9 @@ collection.add(
        "plane flies in the sky",
        "boat sails on water",
        "bus is used for public transport",
+       "car runs on road",
     ],
-    ids=["car1", "plane1", "boat1", "bus1"]
+    ids=["car1", "plane1", "boat1", "bus1", "car2"]
 )
 
 data = collection.get()

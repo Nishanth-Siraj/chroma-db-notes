@@ -7,7 +7,7 @@ collection.update(
     documents=[
         "car runs on road",
         "plane flies in the sky",
-        "boat sails on water",
+        "fish swims in water",
         "bus is used for public transport",
     ],
     ids=["car1", "plane1", "boat1", "bus1"]
